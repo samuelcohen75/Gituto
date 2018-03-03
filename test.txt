@@ -1,1 +1,2 @@
 Ceci est un test de fichier
+et ceci est une deuxieme phrase
